@@ -2,18 +2,18 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.squareup</groupId>
-  <artifactId>square</artifactId>
-  <version>6.3.0.20200826</version>
+  <groupId>com.okenshields</groupId>
+  <artifactId>fangkuai</artifactId>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
-  <name>Square</name>
-  <url>https://github.com/square/square-java-sdk/</url>
-  <description>Java client library for the Square API</description>
+  <name>Fangkuai</name>
+  <url>https://github.com/okenshields/test-java/</url>
+  <description>Java client library</description>
   <scm>
-    <connection>scm:git:https://github.com/square/square-java-sdk.git</connection>
-    <developerConnection>scm:git:git@github.com:square/square-java-sdk.git</developerConnection>
-    <url>https://github.com/square/square-java-sdk/</url>
+    <connection>scm:git:https://github.com/okenshields/test-java.git</connection>
+    <developerConnection>scm:git:git@github.com:okenshields/test-java.git</developerConnection>
+    <url>https://github.com/okenshields/test-java/</url>
   </scm>
   <licenses>
     <license>
@@ -25,10 +25,10 @@
 
   <developers>
     <developer>
-      <name>Square Inc.</name>
-      <email>developers@squareup.com</email>
-      <organization>Square Inc. Developers</organization>
-      <organizationUrl>https://squareup.com/developers</organizationUrl>
+      <name>Okenshields</name>
+      <email>okenshields@example.com</email>
+      <organization>Okenshields</organization>
+      <organizationUrl>https://github.com/okenshields</organizationUrl>
     </developer>
   </developers>
 
